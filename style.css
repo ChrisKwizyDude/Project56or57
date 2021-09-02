@@ -1,0 +1,9 @@
+img {
+    height: 20%;
+    width: 20%;
+}
+
+body {
+    background: linear-gradient(rgb(21, 255, 0) 0%, rgb(0, 110, 255) 50%, red 100%);
+    text-align: center;
+}
